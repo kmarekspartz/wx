@@ -5,3 +5,4 @@ from wx.models.user import User
 
 
 auth = Auth(app, database, user_model=User)
+login_required = auth.login_required
