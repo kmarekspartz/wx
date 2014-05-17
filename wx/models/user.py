@@ -14,3 +14,6 @@ class User(database.Model, BaseUser):
 
     class Meta:
         order_by = ('username',)
+
+    def __unicode__(self):
+        return self.username
