@@ -7,3 +7,8 @@ from wx.auth import auth, login_required
 @app.route('/')
 def home():
     return render_template('home.html')
+
+
+@app.route('/signup')
+def signup():
+    pass
