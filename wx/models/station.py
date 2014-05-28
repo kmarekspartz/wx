@@ -1,5 +1,3 @@
-from peewee import ForeignKeyField
-
 from wx.app import database
 from wx.models.user import User
 from wx.models.location import Location

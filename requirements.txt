@@ -1,15 +1,9 @@
 Flask==0.10.1
-Flask-SeaSurf==0.1.22
 Jinja2==2.7.2
-MarkupSafe==0.23
-WTForms==1.0.5
 Werkzeug==0.9.4
 enum34==1.0
-flask-peewee==0.6.5
 gevent==1.0.1
 greenlet==0.4.2
 gunicorn==18.0
 itsdangerous==0.24
-peewee==2.2.3
 wsgiref==0.1.2
-wtf-peewee==0.2.3

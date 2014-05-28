@@ -1,7 +1,5 @@
 from datetime import datetime
 
-from peewee import ForeignKeyField, DateTimeField
-
 from wx.app import database
 from wx.models.station import Station
 

@@ -1,6 +1,3 @@
-from peewee import PrimaryKeyField, CharField, BooleanField
-from flask_peewee.auth import BaseUser
-
 from wx.app import database
 
 
@@ -14,6 +11,3 @@ class User(database.Model, BaseUser):
 
     class Meta:
         order_by = ('username',)
-
-    def __unicode__(self):
-        return self.username

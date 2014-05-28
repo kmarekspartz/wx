@@ -1,5 +1,3 @@
-from peewee import DoubleField, CompositeKey
-
 from wx.app import database
 
 

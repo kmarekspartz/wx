@@ -1,7 +1,5 @@
 from enum import Enum
 
-from peewee import ForeignKeyField, CharField, DoubleField
-
 from wx.app import database
 from wx.models.report import Report
 
