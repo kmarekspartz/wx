@@ -8,7 +8,7 @@ enum34==1.0
 flask-peewee==0.6.5
 gevent==1.0.1
 greenlet==0.4.2
-gunicorn==18.0
+gunicorn==19.5.0
 itsdangerous==0.24
 peewee==2.2.3
 wsgiref==0.1.2
