@@ -3,7 +3,7 @@ Flask-SeaSurf==0.1.22
 Jinja2>=2.10.1
 MarkupSafe==0.23
 WTForms==1.0.5
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 enum34==1.0
 flask-peewee==0.6.5
 gevent==1.0.1
